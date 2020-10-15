@@ -39,7 +39,6 @@ let translation = sender.translation(in: view)
         
         sender.setTranslation(.zero, in: view)
 
-
     
     }
 
